@@ -3,6 +3,7 @@
 - [Gareth Dawson](https://github.com/gwdawson)
 - [Harshal Bharatkar](https://github.com/harshal43)
 - [Rumas](https://github.com/Rumas97)
+- [Sarah Smeltzer] https://github.com/ssmeltzer
 - [Harsh Singh](https://github.com/Harsh-Singh-Rajput)
 - [Deepak kumar T](https://github.com/DeepakTMD)
 - [Md Monayem Islam](https://monayemislam.github.io/)
